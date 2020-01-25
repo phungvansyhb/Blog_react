@@ -5,7 +5,11 @@ import {
     Route,
     Link
   } from "react-router-dom";
-import Table from '../Component/Table';
+import TableCource from '../Component/TableCource.js';
+import TableNew from '../Component/TableNew.js';
+import TableProject from '../Component/TableProject';
+import TableVideo from '../Component/TableVideo';
+
 import Formkhoahoc from '../Component/Formkhoahoc';
 import Formbaiviet from '../Component/Formbaiviet';
 import Formvideo from '../Component/Formvideo';
@@ -28,22 +32,19 @@ export default class Dieuhuong extends Component {
                     <Route  path="/edit-project" >
                             <Formproject/>
                     </Route>
-                    <Route   path="/:ten" component={Table}>
+                    <Route   path="/khoa-hoc" component={TableCource}>
                         
                     </Route>
-                    <Route path="/:ten" component={Table}>
+                    <Route path="/project" component={TableProject}>
                         
                     </Route>
-                    <Route path="/:ten" component={Table}>
+                    <Route path="/video" component={TableVideo}>
                         
                     </Route>
-                    <Route path="/:ten" component={Table}>
+                    <Route path="/bai-viet" component={TableNew}>
                         
                     </Route>
-                    <Route path="/" >
-                        
-                    </Route>
-                    
+                  
                 </Switch>
             </div>
         )
