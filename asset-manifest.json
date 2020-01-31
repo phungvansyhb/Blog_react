@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/phungvansyhb.github.io/Blog_react/static/css/main.d1b05096.chunk.css",
+    "main.js": "/phungvansyhb.github.io/Blog_react/static/js/main.dca75e16.chunk.js",
+    "main.js.map": "/phungvansyhb.github.io/Blog_react/static/js/main.dca75e16.chunk.js.map",
+    "runtime-main.js": "/phungvansyhb.github.io/Blog_react/static/js/runtime-main.ab61b1c5.js",
+    "runtime-main.js.map": "/phungvansyhb.github.io/Blog_react/static/js/runtime-main.ab61b1c5.js.map",
+    "static/js/2.b57cc326.chunk.js": "/phungvansyhb.github.io/Blog_react/static/js/2.b57cc326.chunk.js",
+    "static/js/2.b57cc326.chunk.js.map": "/phungvansyhb.github.io/Blog_react/static/js/2.b57cc326.chunk.js.map",
+    "index.html": "/phungvansyhb.github.io/Blog_react/index.html",
+    "precache-manifest.d6ad4ce7a79ce55b361813286de7a0fb.js": "/phungvansyhb.github.io/Blog_react/precache-manifest.d6ad4ce7a79ce55b361813286de7a0fb.js",
+    "service-worker.js": "/phungvansyhb.github.io/Blog_react/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/phungvansyhb.github.io/Blog_react/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.b57cc326.chunk.js.LICENSE": "/phungvansyhb.github.io/Blog_react/static/js/2.b57cc326.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ab61b1c5.js",
+    "static/js/2.b57cc326.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.dca75e16.chunk.js"
+  ]
+}
